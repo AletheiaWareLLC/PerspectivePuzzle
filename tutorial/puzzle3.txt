@@ -1,0 +1,6 @@
+outline:outline:light-blue
+target:1
+description:Stop Your Drop
+sphere:s1:sphere:orange:-1,1,0
+block:b1:cube:grey:-1,-1,0
+goal:g1:goal:yellow:1,0,0

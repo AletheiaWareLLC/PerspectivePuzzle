@@ -1,0 +1,7 @@
+outline:outline:light-blue
+target:1
+description:Traverse the Portal
+sphere:s1:sphere:orange:1,0,1
+portal:p1:portal:blue:1,0,-1:-1,0,1
+portal:p2:portal:blue:-1,0,1:1,0,-1
+goal:g1:goal:yellow:-1,0,-1

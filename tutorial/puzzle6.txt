@@ -1,0 +1,8 @@
+outline:outline:light-blue
+target:2
+description:Solve the Maze
+sphere:s1:sphere:orange:-1,1,1
+block:b1:cube:grey:1,-1,-1
+portal:p2:portal:blue:-1,1,-1:1,-1,1
+portal:p1:portal:blue:1,-1,1:-1,1,-1
+goal:g1:goal:yellow:-1,-1,0
