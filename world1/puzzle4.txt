@@ -1,6 +1,7 @@
-target:1
-outline:outline:black
-block:b0:block:dark-grey:-1,-1,1
-block:b1:block:dark-grey:0,1,1
-goal:g0:goal:yellow:0,0,0
-sphere:s0:sphere:orange:1,-1,1
+target:4
+outline:outline:dark-blue
+block:b0:block:dark-grey:0,-1,-1
+block:b1:block:dark-grey:1,1,-1
+block:b2:block:dark-grey:0,0,1
+goal:g0:goal:yellow:1,0,0
+sphere:s0:sphere:orange:-1,1,-1

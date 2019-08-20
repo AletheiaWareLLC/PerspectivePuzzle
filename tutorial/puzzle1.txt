@@ -1,5 +1,6 @@
-outline:outline:light-blue
+title:Enable Gravity
+description:Tap to Drop into Goal
 target:0
-description:Tap to Drop
+outline:outline:light-blue
 sphere:s1:sphere:orange:0,1,0
 goal:g1:goal:yellow:0,-1,0

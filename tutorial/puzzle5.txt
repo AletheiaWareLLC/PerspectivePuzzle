@@ -1,6 +1,7 @@
-outline:outline:light-blue
+title:Traverse Portal
+description:Enter Portal to Reach Goal
 target:1
-description:Traverse the Portal
+outline:outline:light-blue
 sphere:s1:sphere:orange:1,0,1
 portal:p1:portal:blue:1,0,-1:-1,0,1
 portal:p2:portal:blue:-1,0,1:1,0,-1

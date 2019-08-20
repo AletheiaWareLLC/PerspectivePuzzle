@@ -1,5 +1,6 @@
-outline:outline:light-blue
+title:Rotate Maze
+description:Swipe to Orient Sphere Above Goal
 target:1
-description:Swipe to Rotate
+outline:outline:light-blue
 sphere:s1:sphere:orange:0,0,1
 goal:g1:goal:yellow:0,0,-1

@@ -1,8 +1,8 @@
-target:3
-outline:outline:blue
-block:b0:block:dark-grey:2,-2,0
-block:b1:block:dark-grey:-1,-2,-1
-block:b2:block:dark-grey:-2,-2,1
-block:b3:block:dark-grey:1,-2,-2
-goal:g0:goal:yellow:0,-1,-1
-sphere:s0:sphere:orange:-2,-2,-1
+target:4
+outline:outline:dark-green
+block:b0:block:dark-grey:-1,-1,2
+block:b1:block:dark-grey:-2,0,1
+block:b2:block:dark-grey:1,0,2
+block:b3:block:dark-grey:0,0,0
+goal:g0:goal:yellow:-1,-2,1
+sphere:s0:sphere:orange:-1,1,2

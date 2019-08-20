@@ -1,6 +1,7 @@
-outline:outline:light-blue
+title:Solve Maze
+description:Make Progress Towards Goal
 target:2
-description:Solve the Maze
+outline:outline:light-blue
 sphere:s1:sphere:orange:-1,1,1
 block:b1:cube:grey:1,-1,-1
 portal:p2:portal:blue:-1,1,-1:1,-1,1
