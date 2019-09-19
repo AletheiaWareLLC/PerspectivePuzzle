@@ -1,7 +1,7 @@
 title:Step Blocks
 description:Use Blocks to Reach Goal
 target:3
-outline:outline:light-blue
+outline:outline:white
 sphere:s1:sphere:orange:1,-1,1
 block:b1:cube:grey:1,1,1
 block:b2:cube:grey:-1,0,1

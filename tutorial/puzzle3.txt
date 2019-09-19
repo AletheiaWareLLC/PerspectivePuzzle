@@ -1,7 +1,7 @@
 title:Break Fall
 description:Swipe to Orient Sphere Above Block
 target:2
-outline:outline:light-blue
+outline:outline:white
 sphere:s1:sphere:orange:1,-1,0
 block:b1:cube:grey:1,1,0
 goal:g1:goal:yellow:-1,0,0
