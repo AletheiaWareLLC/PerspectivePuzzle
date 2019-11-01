@@ -1,4 +1,3 @@
-title:Solve Maze
 description:Advance Towards Goal using Blocks and Portals
 target:2
 outline:outline:blue

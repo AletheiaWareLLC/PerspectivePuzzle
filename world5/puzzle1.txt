@@ -18,6 +18,6 @@ block:b14:block:light-grey:0,-2,2
 goal:g0:goal:yellow:-3,0,1
 portal:p0:portal:blue:-3,2,-1:3,0,0
 portal:p1:portal:blue:3,0,0:-3,2,-1
-portal:p2:portal:purple:2,-1,1:-3,0,-3
-portal:p3:portal:purple:-3,0,-3:2,-1,1
+portal:p2:portal:green:2,-1,1:-3,0,-3
+portal:p3:portal:green:-3,0,-3:2,-1,1
 sphere:s0:sphere:orange:1,3,1

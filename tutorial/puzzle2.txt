@@ -1,5 +1,4 @@
-title:Rotate Maze
-description:Swipe to Orient Sphere Above Goal
+description:Swipe to Rotate Maze and Orient Sphere Above Goal
 target:1
 outline:outline:blue
 sphere:s1:sphere:orange:0,0,1

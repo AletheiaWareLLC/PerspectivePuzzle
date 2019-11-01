@@ -15,6 +15,6 @@ block:b11:block:light-grey:3,2,3
 goal:g0:goal:yellow:3,2,1
 portal:p0:portal:blue:-3,-3,0:-3,1,2
 portal:p1:portal:blue:-3,1,2:-3,-3,0
-portal:p2:portal:purple:-3,2,3:0,-3,0
-portal:p3:portal:purple:0,-3,0:-3,2,3
+portal:p2:portal:green:-3,2,3:0,-3,0
+portal:p3:portal:green:0,-3,0:-3,2,3
 sphere:s0:sphere:orange:-3,-3,-1
